@@ -1,1 +1,3 @@
-# GR_bootcamp
+# Guillermo Rodas Bootcamp
+
+### Learming JS and React
